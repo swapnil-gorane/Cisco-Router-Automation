@@ -9,7 +9,8 @@ This is a python code same as above but this has additional functionality to cre
 
 05_3.9_paramiko_forloop_device.py:
 This python code allows you to login into two devices 1 by 1 and create interface and assign IP automatically.
-Note: Router R3 has been added with IP 22.2.2.3/24 for this code.
+
+Note: Please refer GNS3 and Kali VM Topology V1 diagram for 05_3.9_paramiko_forloop_device.py.
 
 Please refer my GNS3 and Kali VM setup screenshot to get the topology diagram.
 

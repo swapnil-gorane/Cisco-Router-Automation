@@ -12,7 +12,5 @@ This python code allows you to login into two devices 1 by 1 and create interfac
 
 Note: Please refer GNS3 and Kali VM Topology V1 diagram for 05_3.9_paramiko_forloop_device.py.
 
-Please refer my GNS3 and Kali VM setup screenshot to get the topology diagram.
-
 Side Note: Only router R1 and Kali VM is required if you only want to run python codes.
            Router R2 and Internet NAT is used to connect the R2, R1 and Kali VM to internet through GNS3.

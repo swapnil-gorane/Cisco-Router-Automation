@@ -10,4 +10,4 @@ This is a python code same as above but this has additional functionality to cre
 Please refer my GNS3 and Kali VM setup screenshot to get the topology diagram.
 
 Side Note: Only router R1 and Kali VM is required if you only want to run python codes.
-           Router R2 and Internet NAT is used to connect the R2, R1 and Kali VM to internet through GMS3.
+           Router R2 and Internet NAT is used to connect the R2, R1 and Kali VM to internet through GNS3.

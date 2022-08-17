@@ -1,6 +1,8 @@
 # Cisco-Router-Automation
 Automatically login into Cisco Router and perform pre-defined tasks.
 
+Python 3.10 codes will use my setup 4.jpg for topology.
+
 01_3.10_telnet.py:
 Starting the codes in Windows 11 now. Using GNS3, VM and Python codes in Windows 11.
 

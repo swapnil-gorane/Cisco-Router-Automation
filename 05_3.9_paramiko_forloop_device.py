@@ -34,3 +34,4 @@ for RTR in range (1,4,2): # using for loop and range to loop through both router
     print(output.decode('ascii'))
 
     SESSION.close #python recommends to close the session at the end.
+    
